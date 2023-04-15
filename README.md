@@ -7,5 +7,5 @@ This software is designed to bypass the sending of messages from the discord cli
 # How to use?
 
 ```cmd
-main.ps1 path_to_voice channel_id token (authorization)
+.\main.ps1 path_to_voice channel_id token (authorization)
 ```
