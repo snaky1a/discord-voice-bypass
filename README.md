@@ -1,4 +1,4 @@
-# discord-voice-send
+# discord-voice-bypass
 sends voice messages by requests
 
 # What is this?
